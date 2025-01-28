@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f26738e-5946-4f85-9900-785e5735aa31" name="Changes" comment="Send mails">
-      <change afterPath="$PROJECT_DIR$/mail_sender.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Dice Rolling Game" beforeDir="false" afterPath="$PROJECT_DIR$/../Dice Rolling Game" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/email_sender.py" beforeDir="false" afterPath="$PROJECT_DIR$/email_sender.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

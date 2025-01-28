@@ -14,7 +14,7 @@ def is_valid_domain(email):
 
 # Sender email credentials
 email_sender = 'lyneogola@gmail.com'
-emai_password = 'pxak tjgb mjim txua'
+emai_password = 'enter passkey'
 
 # Prompt for receiver's email
 email_receiver = input("Enter receiver's email: ")
